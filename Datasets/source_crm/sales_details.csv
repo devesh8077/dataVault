@@ -1,0 +1,6 @@
+sls_ord_num,sls_prd_key,sls_cust_id,sls_order_dt,sls_sales,sls_quantity,sls_price
+ORD001,P100,101,2026-04-01,15000,2,7500
+ORD002,P200,102,2026-04-03,-4000,1,4000
+ORD003,P100,103,2026-04-05,0,3,7500
+ORD004,P300,104,2026-04-10,12000,2,6000 
+
